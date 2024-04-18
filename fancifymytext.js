@@ -16,6 +16,7 @@ function applyStyles() {
     textarea.style.color = 'black'; // Reset color to default
     textarea.style.textDecoration = 'none'; // Reset text decoration to none
   }
+  showAlert();
 }
 
 function mooifyText() {
